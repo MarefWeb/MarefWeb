@@ -26,8 +26,6 @@
 
 <img src="https://devicon.dev/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
 
-<img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-
 <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
 
 <img src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
